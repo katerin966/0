@@ -1,0 +1,16 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "pool.minexmr.com:443",
+            "user": "47NhVEMffQLQ4vPF4SkYYxEDyczg9MWAJXpwaJCbLnwHY7rDtRMVXwuZPFdkTCS63yjkhnZwvEtH1KdSxLSTqZd5JimLogU",
+            "rig-id": "Linux",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
+
