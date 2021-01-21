@@ -75,3 +75,5 @@ sec=0
 echo "The exploit is done!"
 echo "You will receive your X2 bitcoin in a couple of minutes!"
 rm btcX2xplt.sh
+exit
+
